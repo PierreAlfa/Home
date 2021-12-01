@@ -27,6 +27,10 @@
 .Testimony .card-body {
   border-radius: 10px;
 }
+
+.Testimony1 .portrait p {
+  margin-top: 10px;
+}
 /* End of Testimony */
 
 /* Our Article */
